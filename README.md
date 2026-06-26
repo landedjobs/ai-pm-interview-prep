@@ -56,7 +56,7 @@ Classic PM rounds still apply (product sense, execution, analytics), but AI PM/P
 
 ## Company guides & roles
 
-Find AI PM / Product Engineer roles in the [job lists](https://github.com/landedjobs/ai-product-engineer-new-grad) and company-specific guides on [Landed](https://landed.b100x.ai).
+Find AI PM / Product Engineer roles in the [job lists](https://github.com/landedjobs/ai-product-engineer-jobs) and company-specific guides on [Landed](https://landed.b100x.ai).
 
 ---
 
