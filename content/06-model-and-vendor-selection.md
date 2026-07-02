@@ -100,7 +100,7 @@ The senior point: **the right model is the one that passes your eval on your tas
 - 📰 [AI API Pricing Comparison 2026](https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude) — IntuitionLabs. Grok vs Gemini vs OpenAI vs Claude per-token.
 - 📰 [The AI PM's Menu: cost-quality tradeoffs](https://generativeai.pub/the-ai-pms-menu-a-field-guide-to-cost-quality-tradeoffs-d897c9da746b) — Scarlett Zhao. Routing as the menu, not the default.
 - 📄 [Dynamic Model Routing and Cascading](https://arxiv.org/html/2603.04445v2) — arXiv. The ~97% quality / ~24% cost result.
-- 📰 [Enterprise AI Services: Build vs Buy](https://www.hp.com/us-en/shop/tech-takes/enterprise-ai-services-build-vs-buy) — HP, Jul 2025. Enterprise-buyer angle.
+- 📰 [Build vs Buy for AI](https://www.ibm.com/think/topics/build-vs-buy-ai) — IBM. Enterprise-buyer decision framework.
 
 ---
 

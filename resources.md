@@ -66,7 +66,7 @@ Legend: `📄 paper · 📘 docs · 🎬 video · 📰 article · 💻 repo · �
 
 - 📰 [The Build vs Buy Framework in the Age of AI](https://hatchworks.com/blog/gen-ai/build-vs-buy-framework/) — Hatchworks, Jan 2026. The 2026 build-trigger list.
 - 📰 [Anthropic vs OpenAI (2026)](https://www.lilbigthings.com/post/anthropic-vs-openai) — lilbigthings, Jan 2026. A current side-by-side to sanity-check.
-- 📰 [Enterprise AI Services: Build vs Buy](https://www.hp.com/us-en/shop/tech-takes/enterprise-ai-services-build-vs-buy) — HP, Jul 2025. Enterprise-buyer angle.
+- 📰 [Build vs Buy for AI](https://www.ibm.com/think/topics/build-vs-buy-ai) — IBM. Enterprise-buyer decision framework.
 - 📰 [AI API Pricing Comparison 2026](https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude) — IntuitionLabs. The per-token table source.
 
 ## H. Ethics, Safety & Governance
