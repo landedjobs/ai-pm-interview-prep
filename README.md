@@ -75,7 +75,27 @@ flowchart LR
   - [product-sense](questions/product-sense.md) (35) · [technical-fluency](questions/technical-fluency.md) (30) · [metrics](questions/metrics.md) (18) · [ai-specific-cases](questions/ai-specific-cases.md) (30) · [behavioral](questions/behavioral.md) (18)
 - **[answers/](answers/README.md)**: **7 worked answers** to AI-specific case prompts against the frameworks
 - **[resources.md](resources.md)**: the typed, annotated, license-noted resource hub *(38 sources)*
+- **[🎓 Go deeper on landed.jobs](#-go-deeper-on-landedjobs)**: free courses for each part of this repo, the AI PM roadmap and salaries
 - **[Contributing](CONTRIBUTING.md)** · [What's new](#whats-new-2026-07) · [FAQ](#faq)
+
+---
+
+## 🎓 Go deeper on landed.jobs
+
+Free courses on [landed.jobs](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=repo-home) for each part of this repo. Everything here stays here; the courses add structured lessons. Lesson counts in brackets.
+
+| In this repo | Course on landed.jobs |
+|---|---|
+| [01 · AI Technical Fluency](content/01-ai-technical-fluency.md) | [AI Technical Fluency for PMs](https://www.landed.jobs/resources/courses/pm-technical-fluency?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-pm-technical-fluency) (6) |
+| [02 · AI Product Sense](content/02-ai-product-sense.md) · [03 · Writing AI PRDs](content/03-writing-ai-prds.md) | [AI Product Sense & PRDs](https://www.landed.jobs/resources/courses/pm-product-sense?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-pm-product-sense) (6) |
+| [04 · Metrics](content/04-metrics-for-ai-products.md) · [05 · Evaluation & launch](content/05-evaluation-and-responsible-ai-launch.md) | [Eval, Metrics & Responsible-AI Launch](https://www.landed.jobs/resources/courses/ai-eval-launch?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-ai-eval-launch) (6) · [Experiment Design & A/B Testing](https://www.landed.jobs/resources/courses/ds-ab-testing?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-ds-ab-testing) (6) |
+| [07 · Human-AI Interaction](content/07-designing-human-ai-interaction.md) | [Designing Human-AI Interaction](https://www.landed.jobs/resources/courses/ad-human-ai-interaction?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-ad-human-ai-interaction) (6) |
+| [answers/](answers/README.md) (case prompts) | [Product Case Studies (Senior Bar)](https://www.landed.jobs/resources/courses/product-case-studies?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-product-case-studies) (8) |
+| Behavioral round | [Behavioral & Storytelling for Technical Interviews](https://www.landed.jobs/resources/courses/behavioral-tech-interviews?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=course-behavioral-tech-interviews) (8) |
+
+**Roadmap and pay.** [AI PM roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-manager?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=roadmap-ai-product-manager) · [AI PM salaries](https://www.landed.jobs/salaries/ai-product-manager?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=salaries-ai-product-manager) · [AI Product Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=roadmap-ai-product-engineer)
+
+**More questions and company loops.** [72 AI PM questions](https://github.com/landedjobs/ai-interview-questions/blob/main/roles/ai-product-manager.md), each with a full answer, and interview guides for [200 companies](https://github.com/landedjobs/ai-interview-guides).
 
 ---
 
