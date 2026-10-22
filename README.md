@@ -12,7 +12,7 @@
 [![Questions](https://img.shields.io/badge/questions-130+-6C2BD9)](questions/)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=repo-home)
 
-**The most comprehensive, senior-grade prep for AI PM interviews in 2026**: the loop, the frameworks, 130+ real questions, and worked answers.
+**AI PM interview prep for 2026**: the loop, the frameworks, 130+ real questions, and worked answers.
 
 *Maintained by [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-pm-interview-prep&utm_content=repo-home): daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
@@ -26,7 +26,7 @@ An AI PM interview is a classical PM loop with an **AI-fluency hard gate bolted 
 
 The one shift that changes everything: **an AI feature is a distribution, not a binary**, so every answer must absorb hallucination, drift, miscalibration, and cost variance. **Structure is now the floor, not the ceiling** (Exponent, 2026): a flawless CIRCLES answer that never mentions eval or cost-of-error reads as a 2024 PM.
 
-> ⭐ **Star this repo**: it's the deepest, best-sourced AI-PM prep on GitHub, refreshed for 2026.
+> ⭐ **Star this repo**: it's refreshed as the AI PM loop changes.
 
 ---
 
